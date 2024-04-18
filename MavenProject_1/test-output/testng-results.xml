@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-22T16:31:21 CDT" name="Default suite" finished-at="2024-03-22T16:31:26 CDT" duration-ms="4730">
+    <groups>
+    </groups>
+    <test started-at="2024-03-22T16:31:21 CDT" name="Default test" finished-at="2024-03-22T16:31:26 CDT" duration-ms="4730">
+      <class name="seleniumAutomationMaven1.testNG_test1">
+        <test-method signature="firefoxinvoketest()[pri:0, instance:seleniumAutomationMaven1.testNG_test1@63a12c68]" started-at="2024-03-22T16:31:21 CDT" name="firefoxinvoketest" finished-at="2024-03-22T16:31:26 CDT" duration-ms="4700" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firefoxinvoketest -->
+      </class> <!-- seleniumAutomationMaven1.testNG_test1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
